@@ -1,5 +1,4 @@
-# World_Weather_Analysis
-Module 6
+# Module 6 Challenge - WeatherPy Plan My Trip App
 
 ## Deliverable 1
 - https://github.com/pmoores/World_Weather_Analysis/blob/main/Weather_Database.ipynb
@@ -9,3 +8,5 @@ Module 6
 - https://github.com/pmoores/World_Weather_Analysis/blob/main/Vacation_Search/Vacation_Search.ipynb
 - https://github.com/pmoores/World_Weather_Analysis/blob/main/Vacation_Search/weather_data/WeatherPy_vacation.csv
 - https://github.com/pmoores/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
+
+## Deliverable 3
